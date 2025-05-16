@@ -58,6 +58,7 @@ pip install -e .
 
 2. TTS(Text-to-Speech) 설정:
    - 기본적으로 VoiceVox를 사용합니다. [VoiceVox 엔진](https://github.com/VOICEVOX/voicevox_engine)을 설치하세요.
+   - [https://voicevox.hiroshiba.jp/]
    - 또는 `tts_config` 섹션에서 다른 TTS 엔진(edge_tts, azure_tts 등)을 선택할 수 있습니다.
 
 3. ASR(Automatic Speech Recognition) 설정:
