@@ -1,0 +1,19 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-05-16T18:34:13"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T18:34:19",
+    "content": "야",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T18:34:32",
+    "content": "안녕하세요![neutral] 좋은 물음챙이기입니다![smirk] 어떤 질문이 있나요?[surprise]",
+    "name": "Koakuma",
+    "avatar": ""
+  }
+]

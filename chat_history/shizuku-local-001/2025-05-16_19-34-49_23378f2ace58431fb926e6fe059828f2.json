@@ -1,0 +1,19 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-05-16T19:34:49"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T19:34:58",
+    "content": "너 이름 뭐야",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T19:35:22",
+    "content": "[neutral] Hello,I am an AI assistant.How can I help you today?",
+    "name": "Koakuma",
+    "avatar": ""
+  }
+]

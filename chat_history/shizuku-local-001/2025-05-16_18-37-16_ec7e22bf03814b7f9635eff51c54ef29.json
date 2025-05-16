@@ -1,0 +1,45 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-05-16T18:37:16"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T18:37:21",
+    "content": "야",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T18:37:32",
+    "content": "안녕하세요![neutral] 좋은 질문입니다![smirk] 응답해드리겠습니다.",
+    "name": "Koakuma",
+    "avatar": ""
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T18:37:50",
+    "content": "목소리 낼수있어?",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T18:38:02",
+    "content": "네,저는 목소리로도 말할 수 있습니다![joy] 응답해드리겠습니다!",
+    "name": "Koakuma",
+    "avatar": ""
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T18:38:54",
+    "content": "야",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T18:39:06",
+    "content": "안녕하세요![neutral] 좋은 질문입니다![smirk] 응답해드리겠습니다.",
+    "name": "Koakuma",
+    "avatar": ""
+  }
+]

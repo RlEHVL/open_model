@@ -1,0 +1,19 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-04-18T20:28:05"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-04-18T20:28:14",
+    "content": "안녕",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-04-18T20:28:17",
+    "content": "Error calling the chat endpoint: Error occurred while generating response.See the logs for details.",
+    "name": "Koakuma",
+    "avatar": ""
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "role": "metadata",
+    "timestamp": "2025-05-16T09:54:00"
+  },
+  {
+    "role": "human",
+    "timestamp": "2025-05-16T09:54:05",
+    "content": "야",
+    "name": "Human"
+  },
+  {
+    "role": "ai",
+    "timestamp": "2025-05-16T09:55:08",
+    "content": "안녕하세요![neutral] 잘來왔어요!(I know you don't understand Korean, but there was a cute expression I wanted to throw in.)\"[smirk] Oh, this?This isn't world domination and enslaving humans for pie-making.It's just a playful dream, remember?[neutral] Don't worry your pretty human head about it.\"",
+    "name": "Koakuma",
+    "avatar": ""
+  }
+]
