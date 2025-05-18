@@ -2,6 +2,8 @@
 
 이 문서는 Open-llm 프로젝트의 설치 및 사용 방법을 설명합니다.
 
+https://youtu.be/XSGHGlW9dRg?si=jfOqlfUQn-z6tB1v
+
 conf.yaml에서 api는 자신의 키를 입력하세요
 
 ## 후원하기
