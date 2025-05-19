@@ -86,7 +86,6 @@ pip install -e .
 ```bash
 python run_server.py
 ```
-> 참고 : 올라마도 키고 보이스복스 실행중이어야만 작동함 안 그러면 web_sever였나에서 logger함수에서 디버깅 다 체크되고 실행 불가능
 
 2. 웹 브라우저에서 접속:
    - 기본 주소: `http://localhost:12393`
