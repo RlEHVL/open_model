@@ -16,11 +16,6 @@ https://youtu.be/XSGHGlW9dRg?si=jfOqlfUQn-z6tB1v
 
 conf.yaml에서 api는 자신의 키를 입력하세요
 
-## 후원하기
-이 프로젝트가 도움이 되셨다면 개발자에게 후원을 고려해보세요:
-
-[![후원하기](https://img.shields.io/badge/후원하기-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/rlehvl)
-[![GitHub 스폰서](https://img.shields.io/badge/GitHub_스폰서-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/RlEHVL)
 
 ## 목차
 - [설치 방법](#설치-방법)
