@@ -7,6 +7,8 @@
 
 https://youtu.be/XSGHGlW9dRg?si=jfOqlfUQn-z6tB1v
 
+![Uploading image.png…]()
+
 conf.yaml에서 api는 자신의 키를 입력하세요
 
 ## 후원하기
